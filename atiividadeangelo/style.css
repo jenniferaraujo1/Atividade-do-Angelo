@@ -1,0 +1,11 @@
+body {
+    font-family: 'Poppins', cursive;
+    background-color:rgb(207, 154, 154);
+    color:rgb(117, 22, 22)
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    color: var(--primary-color);
+    margin: 0;
+}
